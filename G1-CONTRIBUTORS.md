@@ -1,2 +1,4 @@
 ## Contributors
-- Reyes, Christian Andrey (**nahuyadada**)
+- _Add your name here in Task C_
+- Revilleza, Frederick (**@blissfuljuan**)
+- Reyes, Christian Andrey (**@nahuyadada**)
