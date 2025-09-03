@@ -4,4 +4,4 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
-- Reyes, Christian Andrey (**nahuyadada**)
+- Reyes, Christian Andrey (**@nahuyadada**)
